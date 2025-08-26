@@ -1,0 +1,97 @@
+[
+  {
+    "title": "[严重] 指标异常事件",
+    "date": "2025-07-14",
+    "time_window": "16:30",
+    "stats": "异常点: 1个, 密度: 100.0%, 最高分: 22.92",
+    "sample_points": [
+      {
+        "time": "16:30",
+        "value": "34109",
+        "score": "22.92"
+      }
+    ],
+    "hint": "孤立尖峰异常",
+    "severity_level": "severe",
+    "max_score": 22.91802223930438
+  },
+  {
+    "title": "[严重] 指标异常事件",
+    "date": "2025-07-15",
+    "time_window": "15:30",
+    "stats": "异常点: 1个, 密度: 100.0%, 最高分: 4.16",
+    "sample_points": [
+      {
+        "time": "15:30",
+        "value": "9240",
+        "score": "4.16"
+      }
+    ],
+    "hint": "孤立尖峰异常",
+    "severity_level": "severe",
+    "max_score": 4.162401458789488
+  },
+  {
+    "title": "[中等] 指标异常事件",
+    "date": "2025-07-17",
+    "time_window": "04:10 - 04:50",
+    "stats": "异常点: 3个, 密度: 100.0%, 最高分: 2.56",
+    "sample_points": [
+      {
+        "time": "04:50",
+        "value": "5658",
+        "score": "2.56"
+      },
+      {
+        "time": "04:20",
+        "value": "953",
+        "score": "2.00"
+      }
+    ],
+    "hint": "持续性异常波动",
+    "severity_level": "moderate",
+    "max_score": 2.560940053673524
+  },
+  {
+    "title": "[严重] 指标异常事件",
+    "date": "2025-07-20",
+    "time_window": "03:40 - 04:10",
+    "stats": "异常点: 2个, 密度: 100.0%, 最高分: 4.59",
+    "sample_points": [
+      {
+        "time": "04:10",
+        "value": "9595",
+        "score": "4.59"
+      },
+      {
+        "time": "03:40",
+        "value": "883",
+        "score": "2.02"
+      }
+    ],
+    "hint": "持续性异常波动",
+    "severity_level": "severe",
+    "max_score": 4.587376198923394
+  },
+  {
+    "title": "[严重] 指标异常事件",
+    "date": "2025-07-20",
+    "time_window": "05:00 - 06:00",
+    "stats": "异常点: 5个, 密度: 100.0%, 最高分: 4.00",
+    "sample_points": [
+      {
+        "time": "05:00",
+        "value": "8756",
+        "score": "4.00"
+      },
+      {
+        "time": "05:30",
+        "value": "5124",
+        "score": "2.92"
+      }
+    ],
+    "hint": "持续性异常波动",
+    "severity_level": "severe",
+    "max_score": 3.998751350467234
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "2025-07-14": {
+    "total_events": 1,
+    "kept_events": 1,
+    "severe_count": 1,
+    "moderate_count": 0
+  },
+  "2025-07-15": {
+    "total_events": 1,
+    "kept_events": 1,
+    "severe_count": 1,
+    "moderate_count": 0
+  },
+  "2025-07-17": {
+    "total_events": 1,
+    "kept_events": 1,
+    "severe_count": 0,
+    "moderate_count": 1
+  },
+  "2025-07-20": {
+    "total_events": 2,
+    "kept_events": 2,
+    "severe_count": 2,
+    "moderate_count": 0
+  }
+}
